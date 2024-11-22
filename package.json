@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/nihil-quis-sapiente-nesciunt",
-  "version": "6.19.189",
+  "version": "6.20.189",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -581,5 +581,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/nihil-quis-sapiente-nesciunt/issues"
   },
-  "packageManager": "yarn@4.5.1"
+  "packageManager": "yarn@4.5.2"
 }
